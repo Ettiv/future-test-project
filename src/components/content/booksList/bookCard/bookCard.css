@@ -1,0 +1,13 @@
+.book-card-width{
+    width: 270px;
+}
+
+.book-nav-link{
+    text-decoration: none;
+    color: black;
+}
+
+.book-nav-link:hover{
+    text-decoration: none;
+    color: black;
+}

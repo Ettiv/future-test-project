@@ -1,0 +1,16 @@
+.book-tambnail-block-min-with{
+    min-width: 300px;
+    display: flex;
+    width: 50%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    justify-self: center;
+}
+
+.book-information-block{
+    min-width: 300px;
+    width: 50%;
+    justify-self: center;
+    flex-grow: 1;
+    flex-shrink: 1;
+}

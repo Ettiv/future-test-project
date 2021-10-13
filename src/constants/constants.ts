@@ -1,0 +1,1 @@
+export const BOOK_API_URL: string = "https://www.googleapis.com";
